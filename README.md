@@ -4,7 +4,7 @@
 🤝 I’m looking for help with: Advanced AI concepts and real-world project development<br><br>
 🌱 I’m currently learning: Deep Learning, NLP, and Knowledge Representation<br><br>
 💬 Ask me about: Python programming, basic AI concepts, and coding<br><br>
-⚡ Fun fact: I’m a BS Artificial Intelligence student (5th semester) aiming to become an AI Engineer   
+⚡ Fun fact: I’m a BS Artificial Intelligence student aiming to become an AI Engineer   
 
 ---
 

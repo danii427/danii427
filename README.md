@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on: AI-related projects and improving my problem-solving skills through Python<br><br>
 👯 I’m looking to collaborate on: AI, Machine Learning, and Deep Learning projects<br><br>
 🤝 I’m looking for help with: Advanced AI concepts and real-world project development<br><br>

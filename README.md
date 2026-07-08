@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/robot.gif" width="100" />
 
 # ⚡ MUHAMMAD DAYAN AMJAD ⚡
-### `> AI Engineer in the making_`
+### `> AI Engineer in the making`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=whoami+%3D+%22BS+AI+Student%22;training_model(deep_learning);import+numpy+as+np+%23+%F0%9F%A7%A0;status%3A+debugging+%26+learning..." />
 

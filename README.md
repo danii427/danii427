@@ -31,7 +31,7 @@
 🌱  currently learning     : Deep Learning, NLP, Knowledge Representation
 👯  looking to collaborate : AI, ML & Deep Learning projects
 🤝  looking for help with  : advanced AI concepts, real-world project development
-💬  ask me about           : Python, foundational AI concepts, coding
+💬  ask me about           : Python, foundational AI concepts, coding.
 ```
 
 ---

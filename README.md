@@ -24,7 +24,7 @@
 
 ---
 
-## 🧠 `> about --verbose`
+##  `> about --verbose`
 
 ```
 🔭  currently working on   : AI-related projects, sharpening problem-solving with Python

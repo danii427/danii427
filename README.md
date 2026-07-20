@@ -102,7 +102,7 @@ ISSUE: final_examinations               STATUS: RECURRING (each semester)
 [OK] focus       : Deep Learning | Computer Vision | NLP | Knowledge Representation
 [OK] goal        : AI Engineer
 [OK] mission     : building real-world CV/DL pipelines
-[..] collaboration : open to AI / ML / DL projects
+[..] collaboration : open to AI / ML / DL projects.
 ```
 
 ---

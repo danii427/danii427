@@ -30,7 +30,7 @@ root@dayan:~$ ./initialize_ai_core.sh
   INSTITUTION : NIIT | Roll No. S2024AI007
   OBJECTIVE   : AI Engineer
   CORE_LANG   : Python
-  STATUS      : Actively training models
+  STATUS      : Actively training models...
 
 [SYSTEM] Identity verified.
 ```

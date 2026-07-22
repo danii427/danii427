@@ -80,7 +80,7 @@ root@dayan:~$ ./initialize_ai_core.sh
 ISSUE: agnostic_NMS_bug                STATUS: RESOLVED
 ISSUE: class_imbalance_rare_classes     STATUS: RESOLVED
 ISSUE: fraudulent_attendance_photos     STATUS: IN PROGRESS   (35% complete)
-ISSUE: final_examinations               STATUS: RECURRING (each semester)
+ISSUE: final_examinations               STATUS: RECURRING (each semester).
 ```
 
 ---

@@ -23,7 +23,7 @@ root@dayan:~$ ./initialize_ai_core.sh
 ## `root_access > cat identity.log`
 
 ```bash
-[SYSTEM] Loading identity profile...
+[SYSTEM] Loading identity profile.
 
   NAME        : Muhammad Dayan Amjad
   ROLE        : BS Artificial Intelligence Student

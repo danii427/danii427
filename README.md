@@ -63,7 +63,7 @@ root@dayan:~$ ./initialize_ai_core.sh
 ## `log > --milestones`
 
 ```diff
-+ Trained and deployed convolutional neural networks from 
++ Trained and deployed convolutional neural networks from scratch
 + Debugged and resolved an NMS/confidence-threshold issue in a YOLO pipeline
 + Built an image forensics pipeline for fraudulent attendance detection
 + Fused pose estimation and action recognition into a single tracking system

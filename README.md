@@ -1,234 +1,101 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1f0d,100:000000&height=180&section=header&text=DAYAN.EXE&fontColor=39FF14&fontSize=55&fontAlignY=35&animation=fadeIn&desc=AI%20Engineer%20%2F%2F%20Booting%20Neural%20Core...&descAlignY=58&descColor=00FF41" width="100%"/>
+# Muhammad Dayan Amjad
 
-<br>
+### AI Engineer • Deep Learning • Computer Vision • Applied AI
 
-```bash
-root@dayan:~$ whoami
-> muhammad_dayan_amjad
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00C853&center=true&vCenter=true&width=650&lines=Building+Practical+AI+Systems;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Turning+Ideas+Into+Intelligent+Solutions" />
+</p>
 
-root@dayan:~$ ./initialize_ai_core.sh
-[====================] 100%  NEURAL NET ONLINE
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=ACCESS+GRANTED;training_model(deep_learning);class+AI_Engineer(Human)%3A+%23+in+progress;while+not+mastered%3A+keep_learning()" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=danii427&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge&labelColor=000000" />
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=for-the-badge&labelColor=000000" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=danii427&label=Profile%20Views&color=00C853&style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Applied%20AI-00C853?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Actively%20Learning-00C853?style=flat-square" />
+</p>
 
 </div>
 
 ---
 
-## `root_access > cat identity.log`
+## About Me
 
-```text
-[SYSTEM] Loading identity profile...
+I'm **Muhammad Dayan Amjad**, a **BS Artificial Intelligence student at NIIT** with a strong interest in building practical AI and machine learning solutions.
 
- NAME        : Muhammad Dayan Amjad
- ROLE        : AI Engineer | BS Artificial Intelligence Student
- INSTITUTION : NIIT
- ROLL NO.    : S2024AI007
- CORE_LANG   : Python
- FOCUS       : Deep Learning | Computer Vision | NLP
- STATUS      : Actively training models...
+My primary interests are **Deep Learning, Computer Vision, Natural Language Processing, and Applied AI**. I enjoy working on problems that involve training models, developing complete ML pipelines, experimenting with neural networks, and turning research concepts into working applications.
 
-[SYSTEM] Identity verified.
+```python
+class Dayan:
+    role = "AI Engineer"
+    education = "BS Artificial Intelligence"
+    institution = "NIIT"
+
+    interests = [
+        "Deep Learning",
+        "Computer Vision",
+        "Natural Language Processing",
+        "Applied AI",
+    ]
+
+    currently = "Learning, building, and experimenting"
 ```
 
 ---
 
-## `status > --profile`
-
-<div align="center">
-
-```text
-+--------------------------------------------------------+
-| NAME: Muhammad Dayan Amjad       ROLE: AI Engineer    |
-| ORG : NIIT (S2024AI007)          STAGE: BS-AI, Year 3 |
-+--------------------------------------------------------+
-|                                                        |
-| Deep Learning       [##################--]  90%        |
-| Computer Vision     [#################---]  85%        |
-| Applied Projects    [##################--]  90%        |
-| NLP / KR            [##############------]  70%        |
-|                                                        |
-+--------------------------------------------------------+
-```
-
-<img src="https://img.shields.io/badge/ROLE-AI%20ENGINEER-00FF41?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/FOCUS-DEEP%20LEARNING-00FF41?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/STATUS-BUILDING-00FF41?style=for-the-badge&labelColor=000000" />
-
-</div>
-
----
-
-## `log > --milestones`
-
-```diff
-+ Built and trained convolutional neural networks from scratch
-+ Debugged and resolved NMS / confidence-threshold issues in YOLO pipelines
-+ Developed an image-forensics pipeline for fraudulent attendance detection
-+ Combined pose estimation and action recognition into a tracking system
-+ Built interactive GUI dashboards for AI / forensics workflows
-+ Worked with TensorFlow, PyTorch, Keras, OpenCV and scikit-learn
-! Currently studying NLP and Knowledge Representation
-? Next target: production-grade real-world AI systems
-```
-
----
-
-## `log > --open_issues`
-
-```text
-ISSUE: agnostic_NMS_bug
-STATUS: RESOLVED
-
-ISSUE: class_imbalance_rare_classes
-STATUS: RESOLVED
-
-ISSUE: fraudulent_attendance_photos
-STATUS: IN PROGRESS
-
-ISSUE: NLP_mastery
-STATUS: IN PROGRESS
-
-ISSUE: final_examinations
-STATUS: RECURRING
-```
-
----
-
-## `neural_map > --visualize`
-
-```text
-                         ┌──────────────────┐
-                         │    INPUT DATA    │
-                         └────────┬─────────┘
-                                  │
-              ┌───────────────────┼───────────────────┐
-              │                   │                   │
-              ▼                   ▼                   ▼
-        ┌───────────┐       ┌───────────┐       ┌───────────┐
-        │  PYTHON   │       │ COMPUTER  │       │    NLP    │
-        │   MATH    │       │  VISION   │       │    / KR   │
-        └─────┬─────┘       └─────┬─────┘       └─────┬─────┘
-              │                   │                   │
-              └───────────────────┼───────────────────┘
-                                  ▼
-                    ┌─────────────────────────┐
-                    │      AI / ML CORE       │
-                    ├─────────────────────────┤
-                    │ TensorFlow │ PyTorch    │
-                    │ Keras      │ OpenCV     │
-                    │ Sklearn    │ NumPy      │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │      AI ENGINEER        │
-                    │       OUTPUT.EXE        │
-                    └─────────────────────────┘
-```
-
-```yaml
-system:
-  status: ONLINE
-  role: AI Engineer
-  education: BS Artificial Intelligence
-  institution: NIIT
-
-focus:
-  - Deep Learning
-  - Computer Vision
-  - Natural Language Processing
-  - Knowledge Representation
-  - Applied AI
-
-mission:
-  - Build real-world AI systems
-  - Train and deploy ML/DL models
-  - Solve practical computer vision problems
-  - Keep learning
-
-collaboration:
-  status: OPEN
-  interests:
-    - AI
-    - ML
-    - Deep Learning
-    - Computer Vision
-```
-
----
-
-## `connect --socials`
-
-<div align="left">
-
-<a href="https://linkedin.com/in/muhammad-dayan-amjad" target="_blank">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
-</a>
-
-<a href="mailto:dayanamjad02@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" />
-</a>
-
-</div>
-
----
-
-## `stack_trace > --dump`
+## What I Work On
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### Languages
+### Deep Learning
 
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=00FF41" />
-
-### Data & ML
-
-<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/SciPy-000000?style=for-the-badge&logo=scipy&logoColor=00FF41" />
+* Neural network development
+* CNN architectures
+* Model training & evaluation
+* Transfer learning
+* Classification & detection
+* Model debugging and optimization
 
 </td>
 
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### Deep Learning / Vision
+### Computer Vision
 
-<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=00FF41" />
+* Object detection
+* Image classification
+* Pose estimation
+* Action recognition
+* Image forensics
+* Vision-based tracking systems
 
-### Platforms / Databases
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/Anaconda-000000?style=for-the-badge&logo=anaconda&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00FF41" />
+<tr>
+<td width="50%" valign="top">
 
-### Developer Tools
+### Machine Learning
 
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=00FF41" />
+* Data preprocessing
+* Feature engineering
+* Model evaluation
+* Class imbalance handling
+* Statistical analysis
+* Visualization
+
+</td>
+
+<td width="50%" valign="top">
+
+### NLP & AI
+
+* Natural Language Processing
+* Knowledge Representation
+* Text processing
+* AI fundamentals
+* Intelligent systems
 
 </td>
 </tr>
@@ -236,19 +103,100 @@ collaboration:
 
 ---
 
-## `ping --github_stats`
+## Featured Experience
+
+### Computer Vision & AI Projects
+
+**Convolutional Neural Networks**
+
+* Designed and trained CNN-based models from scratch.
+* Worked through model training, evaluation, and debugging.
+* Experimented with different architectures and optimization strategies.
+
+**YOLO Object Detection**
+
+* Debugged NMS and confidence-threshold behavior in an object-detection pipeline.
+* Investigated detection failures and improved inference behavior.
+
+**Image Forensics**
+
+* Developed an image-forensics pipeline for identifying potentially fraudulent attendance images.
+* Worked with image analysis and computer vision techniques.
+
+**Pose & Action Recognition**
+
+* Combined pose estimation and action recognition into a unified tracking workflow.
+* Explored how multiple vision models can work together in a practical system.
+
+**AI Forensics Dashboard**
+
+* Built an interactive GUI for presenting and analyzing computer-vision/forensics results.
+* Focused on making technical model outputs easier to inspect and understand.
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,php,powershell" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+</p>
+
+### Data & Scientific Computing
+
+<p>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
+</p>
+
+### Databases, Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,azure,git,github,githubactions,anaconda,vercel" />
+</p>
+
+---
+
+## Current Learning
+
+```text
+Deep Learning                 ███████████████████░  90%
+Computer Vision               ██████████████████░░  85%
+Applied AI Projects           ███████████████████░  90%
+NLP                           ██████████████░░░░░░  70%
+Knowledge Representation      ██████████████░░░░░░  70%
+```
+
+Currently focusing on strengthening my foundations in:
+
+* Advanced Deep Learning
+* Computer Vision
+* NLP
+* Knowledge Representation
+* Model deployment
+* Production-oriented AI systems
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=danii427&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=39FF14" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=danii427&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=C9D1D9" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danii427&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=39FF14" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danii427&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=00C853&text_color=C9D1D9" />
 
 </div>
 
 ---
 
-## `exec --contribution_history`
+## Contribution Activity
 
 <div align="center">
 
@@ -258,25 +206,28 @@ collaboration:
 
 ---
 
+## Let's Connect
+
+I'm interested in collaborating on projects involving:
+
+**Artificial Intelligence • Machine Learning • Deep Learning • Computer Vision • NLP**
+
+<p>
+<a href="https://linkedin.com/in/muhammad-dayan-amjad">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-00C853?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:dayanamjad02@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-00C853?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
 <div align="center">
 
-```bash
-root@dayan:~$ systemctl status neural-core
+### Building today. Learning every day. Engineering for tomorrow.
 
-● neural-core.service - Dayan AI Core
-   Loaded: loaded
-   Active: active (running)
-   Status: "Learning. Building. Improving."
-
-root@dayan:~$ echo "connection stable. session complete."
-> connection stable. session complete.
-
-root@dayan:~$ exit
-[process terminated - session logged]
-```
-
-<img src="https://visitcount.itsvg.in/api?id=danii427&icon=0&color=00FF41" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B1F,100:0D1117&height=100&section=footer" width="100%" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1f0d,100:000000&height=100&section=footer" width="100%"/>

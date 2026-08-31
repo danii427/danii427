@@ -210,7 +210,7 @@ Currently focusing on strengthening my foundations in:
 
 I'm interested in collaborating on projects involving:
 
-**Artificial Intelligence • Machine Learning • Deep Learning • Computer Vision • 
+**Artificial Intelligence • Machine Learning • Deep Learning • Computer Vision • NLP**
 
 <p>
 <a href="https://linkedin.com/in/muhammad-dayan-amjad">
@@ -226,7 +226,7 @@ I'm interested in collaborating on projects involving:
 
 <div align="center">
 
-### Building today. Learning every day. Engineering for tomorrow.
+### Building today. Learning every day. Engineering for tomorrow. 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B1F,100:0D1117&height=100&section=footer" width="100%" />
 

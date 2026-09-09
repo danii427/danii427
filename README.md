@@ -187,22 +187,6 @@ I am currently strengthening my ability to design and develop complete, producti
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danii427&theme=github_dark&title_color=C94B5F&text_color=F0F0F0&bg_color=0D1117&border_color=30363D&icon_color=C94B5F&chart_color=A51C30" />
-
-<br>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danii427&theme=github_dark&title_color=C94B5F&text_color=F0F0F0&bg_color=0D1117&border_color=30363D&icon_color=C94B5F" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danii427&theme=github_dark&title_color=C94B5F&text_color=F0F0F0&bg_color=0D1117&border_color=30363D&chart_color=A51C30" />
-
-</div>
-
----
-
 ## Professional Interests
 
 I am interested in contributing to research-oriented and technically challenging projects involving:
@@ -242,3 +226,16 @@ I particularly value projects that combine strong theoretical foundations, caref
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A51C30,55:7A1628,100:171717&height=115&section=footer" width="100%" />
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+

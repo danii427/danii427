@@ -2,16 +2,16 @@
 
 # Muhammad Dayan Amjad
 
-### AI Engineer • Deep Learning • Computer Vision • Applied AI
+### Artificial Intelligence Student · AI Engineer · Research-Oriented Developer
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00C853&center=true&vCenter=true&width=650&lines=Building+Practical+AI+Systems;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Turning+Ideas+Into+Intelligent+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=Developing+Practical+AI+Systems;Deep+Learning+%7C+Computer+Vision+%7C+NLP;From+Research+Concepts+to+Working+Solutions" />
 </p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=danii427&label=Profile%20Views&color=00C853&style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Applied%20AI-00C853?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Actively%20Learning-00C853?style=flat-square" />
+  <img src="https://img.shields.io/badge/Approach-Research%20%26%20Engineering-00C853?style=flat-square" />
 </p>
 
 </div>
@@ -20,29 +20,32 @@
 
 ## About Me
 
-I'm **Muhammad Dayan Amjad**, a **BS Artificial Intelligence student at NIIT** with a strong interest in building practical AI and machine learning solutions.
+I am **Muhammad Dayan Amjad**, a **BS Artificial Intelligence student at NIIT** interested in the theory, development, and responsible application of intelligent systems.
 
-My primary interests are **Deep Learning, Computer Vision, Natural Language Processing, and Applied AI**. I enjoy working on problems that involve training models, developing complete ML pipelines, experimenting with neural networks, and turning research concepts into working applications.
+My academic and technical work spans **Deep Learning, Computer Vision, Natural Language Processing, Machine Learning, and Knowledge Representation**. I am particularly interested in translating theoretical ideas into reliable systems through careful experimentation, model evaluation, and practical software development.
+
+I approach artificial intelligence as both a scientific discipline and an engineering practice: understanding the underlying principles, testing assumptions, and building solutions that are useful beyond the laboratory.
 
 ```python
-class Dayan:
+class MuhammadDayanAmjad:
     role = "AI Engineer"
     education = "BS Artificial Intelligence"
     institution = "NIIT"
 
-    interests = [
+    areas_of_study = [
         "Deep Learning",
         "Computer Vision",
         "Natural Language Processing",
-        "Applied AI",
+        "Knowledge Representation",
+        "Machine Learning",
     ]
 
-    currently = "Learning, building, and experimenting"
+    objective = "Develop rigorous, practical, and responsible AI systems"
 ```
 
 ---
 
-## What I Work On
+## Areas of Interest
 
 <table>
 <tr>
@@ -50,11 +53,11 @@ class Dayan:
 
 ### Deep Learning
 
-* Neural network development
-* CNN architectures
-* Model training & evaluation
+* Neural network architecture and development
+* Convolutional neural networks
 * Transfer learning
-* Classification & detection
+* Model training and evaluation
+* Classification and detection
 * Model debugging and optimization
 
 </td>
@@ -76,26 +79,27 @@ class Dayan:
 <tr>
 <td width="50%" valign="top">
 
-### Machine Learning
+### Natural Language Processing
 
-* Data preprocessing
-* Feature engineering
-* Model evaluation
-* Class imbalance handling
-* Statistical analysis
-* Visualization
+* Text preprocessing and representation
+* Language-model fundamentals
+* Text classification
+* Semantic analysis
+* Information extraction
+* Evaluation of NLP systems
 
 </td>
 
 <td width="50%" valign="top">
 
-### NLP & AI
+### Knowledge Representation
 
-* Natural Language Processing
-* Knowledge Representation
-* Text processing
-* AI fundamentals
-* Intelligent systems
+* Knowledge representation and reasoning
+* Propositional and predicate logic
+* Ontologies and semantic structures
+* Rule-based systems
+* Inference and reasoning methods
+* Intelligent knowledge-based systems
 
 </td>
 </tr>
@@ -103,84 +107,94 @@ class Dayan:
 
 ---
 
-## Featured Experience
+## Selected Technical Experience
 
-### Computer Vision & AI Projects
+### Convolutional Neural Networks
 
-**Convolutional Neural Networks**
+* Designed and trained CNN-based models for visual recognition tasks.
+* Conducted model evaluation, debugging, and comparative experimentation.
+* Explored architectural and optimization choices affecting model performance.
 
-* Designed and trained CNN-based models from scratch.
-* Worked through model training, evaluation, and debugging.
-* Experimented with different architectures and optimization strategies.
+### YOLO Object Detection
 
-**YOLO Object Detection**
+* Investigated confidence-threshold and non-maximum-suppression behavior in an object-detection pipeline.
+* Diagnosed detection failures and refined inference behavior.
+* Evaluated the practical relationship between precision, recall, and detection confidence.
 
-* Debugged NMS and confidence-threshold behavior in an object-detection pipeline.
-* Investigated detection failures and improved inference behavior.
+### Image Forensics
 
-**Image Forensics**
+* Developed an image-analysis pipeline for identifying potentially fraudulent attendance images.
+* Applied computer-vision techniques to inspect visual evidence and detect irregularities.
+* Considered how automated analysis can support human decision-making.
 
-* Developed an image-forensics pipeline for identifying potentially fraudulent attendance images.
-* Worked with image analysis and computer vision techniques.
+### Pose Estimation and Action Recognition
 
-**Pose & Action Recognition**
+* Combined pose estimation and action recognition within a unified tracking workflow.
+* Explored the integration of multiple vision models in a practical system.
+* Studied the challenges of maintaining reliable predictions across video sequences.
 
-* Combined pose estimation and action recognition into a unified tracking workflow.
-* Explored how multiple vision models can work together in a practical system.
+### AI Forensics Dashboard
 
-**AI Forensics Dashboard**
-
-* Built an interactive GUI for presenting and analyzing computer-vision/forensics results.
-* Focused on making technical model outputs easier to inspect and understand.
-
----
-
-## Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,php,powershell" />
-</p>
-
-### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
-</p>
-
-### Data & Scientific Computing
-
-<p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
-</p>
-
-### Databases, Cloud & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,azure,git,github,githubactions,anaconda,vercel" />
-</p>
+* Built an interactive interface for presenting and analyzing computer-vision results.
+* Translated technical model outputs into accessible visual information.
+* Focused on clarity, usability, and interpretability.
 
 ---
 
-## Current Learning
+## Technical Toolkit
 
-```text
-Deep Learning                 ███████████████████░  90%
-Computer Vision               ██████████████████░░  85%
-Applied AI Projects           ███████████████████░  90%
-NLP                           ██████████████░░░░░░  70%
-Knowledge Representation      ██████████████░░░░░░  70%
-```
+### Programming Languages
 
-Currently focusing on strengthening my foundations in:
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,php,powershell" />
+</p>
 
-* Advanced Deep Learning
+### Artificial Intelligence and Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+</p>
+
+### Data and Scientific Computing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
+</p>
+
+### Databases, Cloud, and Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,azure,git,github,githubactions,anaconda,vercel" />
+</p>
+
+---
+
+## Academic Foundations
+
+My studies and independent work have developed foundations in:
+
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
 * Computer Vision
-* NLP
-* Knowledge Representation
-* Model deployment
-* Production-oriented AI systems
+* Natural Language Processing
+* Knowledge Representation and Reasoning
+* Statistical analysis
+* Data preprocessing and feature engineering
+* Model evaluation and experimental design
+
+---
+
+## Current Focus
+
+I am currently strengthening my ability to develop complete, production-oriented AI systems, with particular attention to:
+
+* Advanced deep-learning architectures
+* Multimodal and vision-based systems
+* Model deployment and monitoring
+* Reproducible experimentation
+* Explainable and responsible AI
+* Research-informed software engineering
 
 ---
 
@@ -196,19 +210,21 @@ Currently focusing on strengthening my foundations in:
 
 ---
 
-## Let's Connect
+## Collaboration
 
-I'm interested in collaborating on projects involving:
+I welcome opportunities to collaborate on thoughtful and technically challenging work involving:
 
-**Artificial Intelligence • Machine Learning • Deep Learning • Computer Vision • NLP**
+**Artificial Intelligence · Machine Learning · Deep Learning · Computer Vision · Natural Language Processing · Knowledge Representation**
+
+I am especially interested in projects that combine sound theoretical foundations with measurable real-world value.
 
 <p>
 <a href="https://linkedin.com/in/muhammad-dayan-amjad">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-00C853?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-00C853?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:dayanamjad02@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-00C853?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-00C853?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
 
@@ -216,10 +232,8 @@ I'm interested in collaborating on projects involving:
 
 <div align="center">
 
-### Building today. Learning every day. Engineering for tomorrow. 
+### Learning with purpose. Building with rigor. Creating meaningful AI.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B1F,100:0D1117&height=100&section=footer" width="100%" />
 
 </div>
-
-

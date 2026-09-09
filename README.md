@@ -196,16 +196,6 @@ Currently focusing on strengthening my foundations in:
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" />
-
-</div>
-
----
-
 ## Let's Connect
 
 I'm interested in collaborating on projects involving:
@@ -231,6 +221,5 @@ I'm interested in collaborating on projects involving:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B1F,100:0D1117&height=100&section=footer" width="100%" />
 
 </div>
-
 
 

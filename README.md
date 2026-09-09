@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,45:7A1628,100:A51C30&height=180&section=header&text=Muhammad%20Dayan%20Amjad&fontSize=38&fontColor=FFFFFF&fontAlignY=35&desc=Artificial%20Intelligence%20Student%20%7C%20AI%20Engineer&descSize=16&descAlignY=56" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,45:7A1628,100:A51C30&height=190&section=header&text=Muhammad%20Dayan%20Amjad&fontSize=38&fontColor=FFFFFF&fontAlignY=35&desc=Artificial%20Intelligence%20Student%20%7C%20AI%20Engineer&descSize=16&descAlignY=56" width="100%" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=danii427&label=Profile%20Views&color=A51C30&style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Applied%20AI-A51C30?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Applied%20Artificial%20Intelligence-A51C30?style=flat-square" />
   <img src="https://img.shields.io/badge/Approach-Research%20%26%20Engineering-252525?style=flat-square" />
 </p>
 
@@ -12,11 +12,11 @@
 
 ## About Me
 
-I am **Muhammad Dayan Amjad**, a **BS Artificial Intelligence student at NIIT** interested in the theory, development, and responsible application of intelligent systems.
+I am **Muhammad Dayan Amjad**, a **BS Artificial Intelligence student at NIIT** with an interest in the theory, development, and responsible application of intelligent systems.
 
-My academic and technical work spans **Deep Learning, Computer Vision, Natural Language Processing, Machine Learning, and Knowledge Representation**. I am particularly interested in translating theoretical ideas into reliable systems through careful experimentation, model evaluation, and practical software development.
+My academic and technical background includes **Deep Learning, Computer Vision, Natural Language Processing, Machine Learning, and Knowledge Representation and Reasoning**. I am particularly interested in transforming theoretical concepts into reliable systems through structured experimentation, careful evaluation, and practical software development.
 
-I approach artificial intelligence as both a scientific discipline and an engineering practice: understanding the underlying principles, testing assumptions, and developing solutions with meaningful real-world value.
+I approach artificial intelligence as both a scientific discipline and an engineering practice: understanding the principles behind intelligent systems, testing assumptions with evidence, and developing solutions that provide measurable real-world value.
 
 ```python
 class MuhammadDayanAmjad:
@@ -24,20 +24,20 @@ class MuhammadDayanAmjad:
     education = "BS Artificial Intelligence"
     institution = "NIIT"
 
-    areas_of_study = [
+    disciplines = [
         "Deep Learning",
         "Computer Vision",
         "Natural Language Processing",
-        "Knowledge Representation",
+        "Knowledge Representation and Reasoning",
         "Machine Learning",
     ]
 
-    objective = "Develop rigorous, practical, and responsible AI systems"
+    mission = "Develop rigorous, practical, and responsible AI systems"
 ```
 
 ---
 
-## Areas of Interest
+## Areas of Expertise
 
 <table>
 <tr>
@@ -89,9 +89,9 @@ class MuhammadDayanAmjad:
 - Knowledge representation and reasoning
 - Propositional and predicate logic
 - Ontologies and semantic structures
-- Rule-based systems
+- Rule-based intelligent systems
 - Inference and reasoning methods
-- Intelligent knowledge-based systems
+- Knowledge-based systems
 
 </td>
 </tr>
@@ -117,7 +117,7 @@ class MuhammadDayanAmjad:
 
 - Developed an image-analysis pipeline for identifying potentially fraudulent attendance images.
 - Applied computer-vision techniques to inspect visual evidence and detect irregularities.
-- Considered how automated analysis can support informed human decision-making.
+- Explored how automated analysis can support informed human decision-making.
 
 ### Pose Estimation and Action Recognition
 
@@ -135,35 +135,31 @@ class MuhammadDayanAmjad:
 
 ## Technical Toolkit
 
+<div align="center">
+
 ### Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,php,powershell" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,php,powershell" />
 
 ### Artificial Intelligence and Machine Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
-</p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
 
 ### Data and Scientific Computing
 
-<p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
-</p>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
 
 ### Databases, Cloud, and Development Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,azure,git,github,githubactions,anaconda,vercel" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,azure,git,github,githubactions,anaconda,vercel" />
+
+</div>
 
 ---
 
 ## Academic Foundations
 
-My studies and independent work have developed foundations in:
+My studies and independent technical work have developed foundations in:
 
 - Artificial Intelligence
 - Machine Learning
@@ -174,12 +170,13 @@ My studies and independent work have developed foundations in:
 - Statistical analysis
 - Data preprocessing and feature engineering
 - Model evaluation and experimental design
+- Intelligent and knowledge-based systems
 
 ---
 
 ## Current Focus
 
-I am currently strengthening my ability to develop complete, production-oriented AI systems, with particular attention to:
+I am currently strengthening my ability to design and develop complete, production-oriented artificial intelligence systems, with particular attention to:
 
 - Advanced deep-learning architectures
 - Multimodal and vision-based systems
@@ -194,26 +191,35 @@ I am currently strengthening my ability to develop complete, production-oriented
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=danii427&show_icons=true&hide_border=false&border_color=D0D7DE&bg_color=FFFFFF&title_color=A51C30&icon_color=A51C30&text_color=24292F" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danii427&theme=github_dark&title_color=C94B5F&text_color=F0F0F0&bg_color=0D1117&border_color=30363D&icon_color=C94B5F&chart_color=A51C30" />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danii427&layout=compact&hide_border=false&border_color=D0D7DE&bg_color=FFFFFF&title_color=A51C30&text_color=24292F" />
+<br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danii427&theme=github_dark&title_color=C94B5F&text_color=F0F0F0&bg_color=0D1117&border_color=30363D&icon_color=C94B5F" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danii427&theme=github_dark&title_color=C94B5F&text_color=F0F0F0&bg_color=0D1117&border_color=30363D&chart_color=A51C30" />
 
 </div>
 
 ---
 
-## Collaboration
+## Professional Interests
 
-I welcome opportunities to collaborate on thoughtful and technically challenging work involving:
+I am interested in contributing to research-oriented and technically challenging projects involving:
 
 <div align="center">
 
-**Artificial Intelligence · Machine Learning · Deep Learning**  
+**Artificial Intelligence · Machine Learning · Deep Learning**
+
 **Computer Vision · Natural Language Processing · Knowledge Representation**
 
 </div>
 
-I am especially interested in projects that combine sound theoretical foundations with measurable real-world value.
+I particularly value projects that combine strong theoretical foundations, careful experimentation, and meaningful practical applications.
+
+---
+
+## Connect With Me
 
 <div align="center">
 
@@ -233,6 +239,6 @@ I am especially interested in projects that combine sound theoretical foundation
 
 ### Learning with purpose. Building with rigor. Creating meaningful AI.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A51C30,55:7A1628,100:171717&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A51C30,55:7A1628,100:171717&height=115&section=footer" width="100%" />
 
 </div>

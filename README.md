@@ -19,7 +19,7 @@ My academic and technical background includes **Deep Learning, Computer Vision, 
 I approach artificial intelligence as both a scientific discipline and an engineering practice: understanding the principles behind intelligent systems, testing assumptions with evidence, and developing solutions that provide measurable real-world value.
 
 ```python
-
+class MuhammadDayanAmjad:
     role = "AI Engineer"
     education = "BS Artificial Intelligence"
     institution = "NIIT"

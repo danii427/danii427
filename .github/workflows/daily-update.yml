@@ -2,8 +2,8 @@ name: Daily automated date update
 
 on:
   schedule:
-    # Monday-Friday at 00:00 UTC (05:00 Pakistan time).
-    - cron: '0 0 * * 1-5'
+    # Check daily at 00:00 UTC (05:00 Pakistan time).
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 permissions:
@@ -18,12 +18,39 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - name: Select five days for this UTC week
+        id: schedule
+        shell: python
+        run: |
+          import hashlib
+          import os
+          from datetime import datetime, timedelta, timezone
+
+          today = datetime.now(timezone.utc).date()
+          monday = today - timedelta(days=today.weekday())
+          # Stable selection within a week; a new selection each Monday.
+          # Hash ranking gives five distinct days without storing extra files.
+          seed = f"{os.environ['GITHUB_REPOSITORY']}:{monday.isoformat()}"
+          days = sorted(
+              range(7),
+              key=lambda day: hashlib.sha256(f"{seed}:{day}".encode()).digest(),
+          )[:5]
+          manual = os.environ['GITHUB_EVENT_NAME'] == 'workflow_dispatch'
+          run_today = manual or today.weekday() in days
+          names = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+          print('Selected UTC days: ' + ', '.join(names[day] for day in sorted(days)))
+          print('Manual override.' if manual else ('Selected day.' if run_today else 'Rest day.'))
+          with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as output:
+              output.write(f"run_today={str(run_today).lower()}\n")
+
       - name: Check out default branch
+        if: steps.schedule.outputs.run_today == 'true'
         uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
         with:
           ref: ${{ github.event.repository.default_branch }}
 
       - name: Update UTC date and commit if changed
+        if: steps.schedule.outputs.run_today == 'true'
         shell: bash
         run: |
           set -euo pipefail

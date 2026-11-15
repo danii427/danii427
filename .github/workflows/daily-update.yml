@@ -37,11 +37,15 @@ jobs:
           )[:5]
           manual = os.environ['GITHUB_EVENT_NAME'] == 'workflow_dispatch'
           run_today = manual or today.weekday() in days
+          count_seed = f"{os.environ['GITHUB_REPOSITORY']}:{today}:heartbeat-count"
+          count = 2 + hashlib.sha256(count_seed.encode()).digest()[0] % 2
           names = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
           print('Selected UTC days: ' + ', '.join(names[day] for day in sorted(days)))
           print('Manual override.' if manual else ('Selected day.' if run_today else 'Rest day.'))
           with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as output:
               output.write(f"run_today={str(run_today).lower()}\n")
+              output.write(f"count={count}\n")
+              output.write(f"utc_date={today.isoformat()}\n")
 
       - name: Check out default branch
         if: steps.schedule.outputs.run_today == 'true'
@@ -49,18 +53,27 @@ jobs:
         with:
           ref: ${{ github.event.repository.default_branch }}
 
-      - name: Update UTC date and commit if changed
+      - name: Record two or three automated heartbeats
         if: steps.schedule.outputs.run_today == 'true'
         shell: bash
+        env:
+          UTC_DATE: ${{ steps.schedule.outputs.utc_date }}
+          HEARTBEAT_COUNT: ${{ steps.schedule.outputs.count }}
         run: |
           set -euo pipefail
-          date -u +'%Y-%m-%d' > activity.txt
           git config user.name 'Muhammad Dayan Amjad'
           git config user.email '213164897+danii427@users.noreply.github.com'
-          git add -- activity.txt
-          if git diff --cached --quiet -- activity.txt; then
-            echo 'UTC date is unchanged; no commit needed.'
-            exit 0
+          completed=0
+          if [[ -f activity.txt ]] && [[ "$(head -n 1 activity.txt)" == "$UTC_DATE" ]]; then
+            recorded=$(sed -n 's/^Automated heartbeat: \([0-3]\)\/[23]$/\1/p' activity.txt)
+            completed=${recorded:-0}
           fi
-          git commit -m "chore: automated UTC date update ($(date -u +'%Y-%m-%d'))" -- activity.txt
+          for ((i=completed+1; i<=HEARTBEAT_COUNT; i++)); do
+            printf '%s\nAutomated heartbeat: %s/%s\n' "$UTC_DATE" "$i" "$HEARTBEAT_COUNT" > activity.txt
+            git add -- activity.txt
+            if git diff --cached --quiet -- activity.txt; then
+              continue
+            fi
+            git commit -m "chore: automated heartbeat $i/$HEARTBEAT_COUNT ($UTC_DATE)" -- activity.txt
+          done
           git push origin HEAD
